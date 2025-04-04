@@ -18,8 +18,8 @@
 ## 📈 GitHub Stats
 ![Sai Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saivarun91&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saivarun91&theme=dark)
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saivarun91&theme=dark)](https://git.io/streak-stats)
 
 ## 📚 Recent Blog Posts
 - **AI-Powered Cold Email Generator**
