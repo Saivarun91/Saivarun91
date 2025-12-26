@@ -5,7 +5,7 @@
 - 🔥 **Python Full Stack Developer** | **Open Source Contributor**
 - 🧠 Enthusiastic about **System Design**, **AI/ML**, **Data Science**, **IoT**, and **Performance Optimization**
 - ⚡ Passionate about building **efficient** and **scalable applications**
-- 🤝 Love contributing to **Open Source** and collaborating on **innovative projects**
+- 🤝 Love contributing to **Open Source** and collaborating on **innovative projects** 
 - 🎬 Always striving to improve my skills and learn new technologies!
 
 ## 🛠️ Tech Stack
